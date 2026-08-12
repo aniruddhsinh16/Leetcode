@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0039-combination-sum](https://github.com/aniruddhsinh16/Leetcode/tree/master/0039-combination-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhsinh16/Leetcode/tree/master/1140-stone-game-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhsinh16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3620-network-recovery-pathways](https://github.com/aniruddhsinh16/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aniruddhsinh16/Leetcode/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhsinh16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhsinh16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
