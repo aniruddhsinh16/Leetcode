@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0039-combination-sum](https://github.com/aniruddhsinh16/Leetcode/tree/master/0039-combination-sum) |
 | [1140-stone-game-ii](https://github.com/aniruddhsinh16/Leetcode/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhsinh16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhsinh16/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/aniruddhsinh16/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhsinh16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhsinh16/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
