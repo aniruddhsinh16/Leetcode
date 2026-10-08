@@ -82,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhsinh16/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aniruddhsinh16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aniruddhsinh16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aniruddhsinh16/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
